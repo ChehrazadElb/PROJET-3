@@ -1,0 +1,1 @@
+Le projet chez Dev Immédiat visait à garantir la conformité au RGPD. En tant qu'expert en Business Intelligence, j'ai émis des recommandations concernant les règles de gestion, en extrayant et anonymisant les données du CRM. Cette approche a permis de répondre aux exigences de la CNIL, tout en prévenant toute violation future des règles de protection des données.
